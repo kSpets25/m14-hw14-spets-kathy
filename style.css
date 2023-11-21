@@ -1,7 +1,5 @@
-
-
-nav {
-  padding: 10px 10px;
+.hero {
+  width:95%;
 }
 
  h1 {
@@ -9,16 +7,23 @@ nav {
     padding-top: 10px;
     font-size: 30px;
  }
- p, li{
-  font-size: 24px;
+
+h2 {
+  color: darkblue;
+}
+
+p, li{
+  font-size: 18px;
  }
 
- .navbar-brand {
+.navbar-brand {
   font-size: 30px;
  }
 
-.hero {
-  width:95%;
+.navbar-nav {
+  font-size: 18px;
+  padding-bottom: 5px;
+  
 }
 
 
