@@ -1,3 +1,14 @@
+The Components I used for this assignment are:  
+1) Navbar
+2) Cards
+3) button
+4) Carousel
+
+The Grid System was used and it is responsive.
+The use of Spacing utilities was also used.
+
+
+
 # Assignment 14: Use a CSS and JavaScript Framework to Add Interactivity to a Website
 
 (**NOTE:** View a rendered version of this file in VS Code with `ctrl-shift-v` or `cmd-shift-v`)
